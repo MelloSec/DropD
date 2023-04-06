@@ -1,0 +1,16 @@
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.csproj.AssemblyReference.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.AssemblyInfoInputs.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.AssemblyInfo.cs
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.csproj.CoreCompileInputs.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\bin\Debug\net5.0\DropD.exe
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\bin\Debug\net5.0\DropD.deps.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\bin\Debug\net5.0\DropD.runtimeconfig.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\bin\Debug\net5.0\DropD.runtimeconfig.dev.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\bin\Debug\net5.0\DropD.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\bin\Debug\net5.0\ref\DropD.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\bin\Debug\net5.0\DropD.pdb
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\ref\DropD.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.pdb
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\assrat\DropD\obj\Debug\net5.0\DropD.genruntimeconfig.cache

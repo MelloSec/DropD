@@ -1,0 +1,5 @@
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\dropd\bin\Release\net5.0\publish\DropD.exe
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\dropd\bin\Release\net5.0\publish\DropD.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\dropd\bin\Release\net5.0\publish\DropD.deps.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\dropd\bin\Release\net5.0\publish\DropD.runtimeconfig.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Gitlab\dropd\bin\Release\net5.0\publish\DropD.pdb

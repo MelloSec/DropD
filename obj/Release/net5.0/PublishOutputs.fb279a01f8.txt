@@ -1,0 +1,5 @@
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Test\Incoming\DropD.exe
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Test\Incoming\DropD.dll
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Test\Incoming\DropD.deps.json
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Test\Incoming\DropD.runtimeconfig.json
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Test\Incoming\DropD.pdb

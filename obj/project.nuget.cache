@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "91owkHy2CccZAwz8dc1PdEnsy/7UDjoVRj+7OuPM6LSdwCDHkQ1/8U2HcFU7ZasoLhjnyWhU7xtiHYvszBaydg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RleeA\\vsworksapce\\Code\\GitHubProjects\\2023\\Gitlab\\dropd\\DropD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RleeA\\.nuget\\packages\\costura.fody\\3.3.3\\costura.fody.3.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
